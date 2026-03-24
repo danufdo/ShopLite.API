@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopLite.API", "ShopLite.API.csproj", "{680146D7-82DF-8968-BAF0-76B623EF4E1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{680146D7-82DF-8968-BAF0-76B623EF4E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680146D7-82DF-8968-BAF0-76B623EF4E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680146D7-82DF-8968-BAF0-76B623EF4E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680146D7-82DF-8968-BAF0-76B623EF4E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EB36F5D-8146-4BF0-A1FA-12481CD016E0}
+	EndGlobalSection
+EndGlobal
