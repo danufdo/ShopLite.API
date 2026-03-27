@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopLite.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6996b5f4d3c789c9e1dfef3302bf41342222ff65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4aa3d6e3526ebd030c9b53253f02853f9c8d0ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopLite.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopLite.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
